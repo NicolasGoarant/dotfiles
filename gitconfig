@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = git push
+	email = 49594434+NicolasGoarant@users.noreply.github.com
 	name = git commit -m \"chore: update zprofile\"
